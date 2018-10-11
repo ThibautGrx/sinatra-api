@@ -1,4 +1,4 @@
 require_relative 'record'
 
-class Movie < Record
+class Director < Record
 end
